@@ -1,0 +1,19 @@
+download tamper monkey extension
+install node
+install Notepad++ 
+install script with skin or no skin?
+go to agar.io
+copy your uuid in config.js where is has '2222'
+click start server.bat
+then start bots.bat
+update your proxy list ;)
+
+install win rar if you need it.....
+  
+Servers:soapplus.tk/?ip=155.94.243.10:4848
+       soapplus.tk/?ip=bubble-wars.tk:4444
+       soapplus.tk/?ip=178.62.254.94:1501
+       soapplus.tk/?ip=164.132.200.92:2021
+       soapplus.tk/?ip=192.95.15.93:4437
+       soapplus.tk/?ip=150.95.135.169:7890
+       soapplus.tk/?ip=167.114.191.44:4700
